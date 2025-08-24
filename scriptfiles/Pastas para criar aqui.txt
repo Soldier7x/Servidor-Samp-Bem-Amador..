@@ -1,0 +1,9 @@
+Backup
+Banco
+Banidos
+Contas
+IPs Banidos
+Logs
+Presos
+tde
+Veiculos
