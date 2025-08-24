@@ -1,0 +1,24 @@
+JA FEITOS 
+
+Tela de login 
+Save Game 
+Backup de dados
+Organizações
+Vips
+Gps(Falta adicionar mais locais)
+Sistema de banimento e prsão adm e flood 
+
+INTERIORES FEITOS
+Departamentos de Policia
+Prefeitura
+Exercito
+Banco
+
+
+INTERIORES RESTANTES
+lojas de armas
+lojas de roupas
+empresas(A fazer sistema)
+trabalhos(A fazer sistema)
+Prisão(Adicionar localização da prisão)
+
